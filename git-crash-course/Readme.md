@@ -6,4 +6,4 @@
 
 ## Stashing
 
-## Merching
+## Mergching
